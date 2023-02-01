@@ -1,1 +1,1 @@
-愛滕伯格(中國)訊息公司
+Atomburg Corp., LTD.
