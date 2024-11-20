@@ -1,0 +1,6 @@
+{
+    "name": "Dumb",
+    "symbol": "DUMB",
+    "description": "Does Until Meaningless Behavior",
+    "image": "https://gitlab.com/atomburg/www/-/raw/main/data/dumb/logo.png"
+}
