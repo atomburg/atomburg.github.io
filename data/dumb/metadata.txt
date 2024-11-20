@@ -2,5 +2,5 @@
     "name": "Dumb",
     "symbol": "DUMB",
     "description": "Does Until Meaningless Behavior",
-    "image": "https://gitlab.com/atomburg/www/-/raw/main/data/dumb/logo.png"
+    "image": "https://raw.githubusercontent.com/atomburg/atomburg.github.io/refs/heads/master/data/dumb/logo.png"
 }
